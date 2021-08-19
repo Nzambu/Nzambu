@@ -1,1 +1,5 @@
-<h1 style="text-align: center; ">Hi I'm Patrick :wave:</h1>
+# Hi I'm Patrick :wave:
+
+<center>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+</center>
