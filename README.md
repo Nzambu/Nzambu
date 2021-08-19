@@ -1,5 +1,5 @@
 # Hi I'm Patrick :wave:
 
 <h6>
-${your.username}.${your.repo.id}, https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 </h6>
