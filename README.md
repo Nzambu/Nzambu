@@ -1,1 +1,1 @@
-<h1 style="text: center; ">Hi I'm Patrick :wave:</h1>
+<h1 style="text-align: center; ">Hi I'm Patrick :wave:</h1>
