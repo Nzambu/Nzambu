@@ -10,22 +10,37 @@
 
 # Hi I'm Patrick :wave:
 
-## :older_man: Me
+## :man: Me
 
 I'm a resilient. proactive, and open minded Software Engineer who applies critical thinking and soft skills to provide technical solutions by writing well-documented, clean and bug-free code.
 
 ## :floppy_disk: Backend - Microservices and RESTful APIs
 
 I make API's following specifications set by [Json API Org](https://jsonapi.org/). I also make microservices depending on the nature, scope and needs in a project. However, the decision is highly
-informed by the customer preferences. Iregardless of your choice, I will deliver RESTful Json API's secured with Bearer Token.
+informed by the customer preferences. Iregardless of your choice, I will deliver RESTful Json API's secured with [Bearer Token](https://github.com/Nzambu/Laravel-with-JWT-token-and-Scribe-documentation/tree/master).
 
 ## :computer: Frontend - Web Application
 
-I make web applications using [![VueJs](example)](https://github.com/Nzambu/fintech/tree/main/vue) and ReactJs. The applications are responsive in smartphones, tablets, mini-laptops, normal size laptops, desktops and large desktops. I achieve the goal using Bootstrap, Vuetify or Tailwind.
+I make web applications using [VueJs](https://github.com/Nzambu/fintech/tree/main/vue) and ReactJs. The applications are responsive in smartphones, tablets, mini-laptops, normal size laptops, desktops and large desktops.
 
 ## &#x270d; Tech Writing
 
 I write articles about software development that you can find on [Medium](https://medium.com/@patricknzambu)
+
+## 🔧 Technologies & Tools
+
+```javascript
+const pats = {
+  main_languages: [PHP, Javascript, Typescript],
+  other_language: [Python and Django],
+  web_app:        [Vue, Vuex, React, Redux],
+  cloud:          [AWS],
+  server:         [Apache, Ngnix, Docker]
+  git:            [Gitlab, Github, CI/CD],
+  databases:      [MySQL, MariaDB, PostgreSQL]
+  architecture:   ["microservices", "event-driven", "design system pattern"],
+}
+```
 
 <a href="https://github.com/Nzambu/Nzambu">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nzambu&hide=css,html,tex&theme=merko&langs_count=3" />
