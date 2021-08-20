@@ -31,12 +31,12 @@ I write articles about software development that you can find on [Medium](https:
 
 ```javascript
 const pats = {
-  main_languages: [PHP, Javascript, Typescript],
+  main_languages: ["PHP", Javascript, Typescript],
   other_language: [Python and Django],
   web_app:        [Vue, Vuex, React, Redux],
-  cloud:          [AWS],
+  cloud:          ["AWS"],
   server:         [Apache, Ngnix, Docker]
-  git:            [Gitlab, Github, CI/CD],
+  git:            [Gitlab, Github, "CI/CD"],
   databases:      [MySQL, MariaDB, PostgreSQL]
   architecture:   ["microservices", "event-driven", "design system pattern"],
 }
