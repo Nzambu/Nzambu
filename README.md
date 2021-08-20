@@ -8,7 +8,7 @@
 
 </div>
 
-# Hi I'm Patrick :wave:
+# Hi I'm Patrick Nzambu :wave:
 
 ## :man: Me
 
