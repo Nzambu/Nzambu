@@ -14,7 +14,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nzambu&layout=compact)
 
 <a href="https://github.com/Nzambu/Nzambu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nzambu&hide=css,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nzambu&hide=css,html,tex&theme=merko&langs_count=3" />
 </a>
 <a href="https://github.com/Nzambu/Nzambu">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nzambu&show_icons=true&theme=merko&line_height=27&count_private=true" alt="Nzambu's GitHub Stats" />
