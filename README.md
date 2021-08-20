@@ -5,13 +5,11 @@
 [![GitHub Nzambu](https://img.shields.io/github/followers/nzambu?label=follow&style=social)](https://github.com/Nzambu)
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Nzambu.visitor-badge)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Nzambu.visitor-badge)  https://medium.com/@patricknzambu
 
+## &#x270d; Tech Writing
 
-
-![Nzambu's GitHub stats](https://github-readme-stats.vercel.app/api?username=nzambu&show_icons=true&theme=merko)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nzambu&layout=compact)
+I write articles about software development that you can find on [Medium](https://medium.com/@patricknzambu)
 
 <a href="https://github.com/Nzambu/Nzambu">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nzambu&hide=css,html,tex&theme=merko&langs_count=3" />
