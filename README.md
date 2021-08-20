@@ -14,10 +14,14 @@
 
 I'm a resilient. proactive, and open minded Software Engineer who applies critical thinking and soft skills to provide technical solutions by writing well-documented, clean and bug-free code.
 
-## &#x270d; Backend - Microservices and RESTful APIs
+## :floppy_disk: Backend - Microservices and RESTful APIs
 
 I make API's following specifications set by [Json API Org](https://jsonapi.org/). I also make microservices depending on the nature, scope and needs in a project. However, the decision is highly
 informed by the customer preferences. Iregardless of your choice, I will deliver RESTful Json API's secured with Bearer Token.
+
+## :computer: Frontend - Web Application
+
+I make web applications using VueJs and ReactJs. The applications are responsive in smartphones, tablets, mini-laptops, normal size laptops, desktops and large desktops. I achieve the goal using Bootstrap, Vuetify or Tailwind.
 
 ## &#x270d; Tech Writing
 
