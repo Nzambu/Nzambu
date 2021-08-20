@@ -25,20 +25,20 @@ I make web applications using [VueJs](https://github.com/Nzambu/fintech/tree/mai
 
 ## &#x270d; Tech Writing
 
-I write articles about software development that you can find on [Medium](https://medium.com/@patricknzambu)
+I write articles about software engineering solutions and current industry practices making solutions. The articles can be found at [Medium](https://medium.com/@patricknzambu)
 
 ## 🔧 Technologies & Tools
 
 ```javascript
-const pats = {
-  main_languages: ["PHP", Javascript, Typescript],
-  other_language: [Python and Django],
+const nzambu = {
+  main_languages: [PHP, Javascript, Typescript],
+  other_language: [Python, Django],
   web_app:        [Vue, Vuex, React, Redux],
-  cloud:          ["AWS"],
+  cloud:          [AWS],
   server:         [Apache, Ngnix, Docker]
-  git:            [Gitlab, Github, "CI/CD"],
+  git:            [Gitlab, Github, CI/CD],
   databases:      [MySQL, MariaDB, PostgreSQL]
-  architecture:   ["microservices", "event-driven", "design system pattern"],
+  architecture:   ["microservices", "event-driven", "design system pattern", "mvc"],
 }
 ```
 
