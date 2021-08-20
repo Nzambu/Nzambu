@@ -21,7 +21,7 @@ informed by the customer preferences. Iregardless of your choice, I will deliver
 
 ## :computer: Frontend - Web Application
 
-I make web applications using [[VueJs](example)](https://github.com/Nzambu/fintech/tree/main/vue) and ReactJs. The applications are responsive in smartphones, tablets, mini-laptops, normal size laptops, desktops and large desktops. I achieve the goal using Bootstrap, Vuetify or Tailwind.
+I make web applications using [![VueJs](example)](https://github.com/Nzambu/fintech/tree/main/vue) and ReactJs. The applications are responsive in smartphones, tablets, mini-laptops, normal size laptops, desktops and large desktops. I achieve the goal using Bootstrap, Vuetify or Tailwind.
 
 ## &#x270d; Tech Writing
 
