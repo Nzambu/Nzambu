@@ -10,7 +10,7 @@
 
 # Hi I'm Patrick :wave:
 
-## &#x270d; Me
+## :older_man: Me
 
 I'm a resilient. proactive, and open minded Software Engineer who applies critical thinking and soft skills to provide technical solutions by writing well-documented, clean and bug-free code.
 
