@@ -31,8 +31,8 @@ I write articles about software engineering solutions and current industry pract
 
 ```javascript
 const nzambu = {
-  main_languages: [PHP, Javascript, Typescript],
-  other_language: [Python, Django],
+  main_languages: [PHP - Laravel, Javascript, Typescript],
+  other_language: [Python - Django],
   web_app:        [Vue, Vuex, React, Redux],
   cloud:          [AWS],
   server:         [Apache, Ngnix, Docker]
@@ -41,6 +41,8 @@ const nzambu = {
   architecture:   ["microservices", "event-driven", "design system pattern", "mvc"],
 }
 ```
+
+## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/Nzambu/Nzambu">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nzambu&hide=css,html,tex&theme=merko&langs_count=3" />
