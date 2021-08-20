@@ -11,6 +11,10 @@
 
 # Hi I'm Patrick :wave:
 
+## &#x270d; Me
+
+I'm a resilient. proactive, and open minded Software Engineer who applies critical thinking and soft skills to provide technical solutions by writing well-documented, clean and bug-free code.
+
 ## &#x270d; Tech Writing
 
 I write articles about software development that you can find on [Medium](https://medium.com/@patricknzambu)
